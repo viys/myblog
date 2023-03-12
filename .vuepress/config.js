@@ -109,30 +109,30 @@ module.exports = {
     "mottos": [
     {
       "zh": "天在下雨地下滑，自己跌倒自己爬。",
-      "en": "It was raining and I slipped. I fell and climbed."
+      "en": "It was raining and slipping, and I fell and lay down by myself."
     },
     {
       "zh": "花有百般红，猫与猫不同。",
-      "en": "Flowers are all kinds of red. People are different from dogs."
+      "en": "There are all kinds of red flowers, and cats are different from cats."
     },
     {
       "zh": "万物与我都是荒诞的静寂",
-      "en": "Just because people gather and disperse in the wind, it's up to you and me."
+      "en": "Everything and I are an absurd silence"
     },
     {
       "zh": "月亮很亮，亮也没用，没用也亮。",
-      "en": "After learning many skills, I finally found that the most useful skill is to be open-minded."
+      "en": "The moon is very bright, but it is useless to be bright, and it is also bright even if it is useless."
     },
     {
       "zh": "现在，天色暗了，我也倦了。",
-      "en": "Enjoy yourself. These are the good old days you're going to miss in the years ahead. "
+      "en": "Now, it's getting dark and I'm tired."
     }, {
       "zh": "孤独 养分 风与黄昏 水与等火 我都不缺",
-      "en": "It's a bit careless to stand in the rain on a thundering day."
+      "en": "Loneliness, nourishment, wind and dusk, water and waiting fire, I am not lacking"
     },
     {
       "zh": "你走的路要繁花盛开，要人声鼎沸。",
-      "en": "I just want to stand and earn money."
+      "en": "The road you walk needs to be full of flowers and full of voices."
     }
     ],
     //配置背景图片，每次刷新自动
