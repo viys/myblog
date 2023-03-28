@@ -1,6 +1,6 @@
 module.exports = {
   //网站标题（博客名称）
-  "title": "778B",
+  "title": "viys",
   //加载页面的提示语句
   "description": "温柔才是宝藏，你也是",
   "dest": "dist",
@@ -18,7 +18,15 @@ module.exports = {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
+      
     ],
+    [
+      "meta",
+      {
+        "name": "msvalidate.01",
+        "content": "995BE321E828B6205FA316BCC0116630"
+      }
+    ], 
     ['script', {}, `
           var _hmt = _hmt || [];
           (function() {
@@ -82,7 +90,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "778B",
+    "author": "viys",
     "authorAvatar": "https://778b-1317013106.cos.ap-nanjing.myqcloud.com/img/avatar_top.png",
     "record": "你的备案号 ", //icp备案
     "startYear": "2022",
